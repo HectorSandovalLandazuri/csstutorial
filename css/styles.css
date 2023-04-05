@@ -1,0 +1,36 @@
+h1 {
+    color: blue;
+}  
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: blue;
+    font-size: 25px;
+}
+
+#title {
+    font-size:50px;
+    text-transform: uppercase;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color:green;
+}
+
+span {
+    text-transform: uppercase;
+}
+
+/* css rule */
+/* selector */
+/* declaration block */
+/* declaration */
+/* property */
+/* value */
